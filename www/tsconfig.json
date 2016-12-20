@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "noEmitOnError": true,
+        "inlineSourceMap": true,
+        "target": "es5"
+    }
+}
